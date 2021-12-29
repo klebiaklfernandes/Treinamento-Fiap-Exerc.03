@@ -1,0 +1,17 @@
+C:\AulaFiap\IfSimples\IfSimples\bin\Debug\net6.0-windows\IfSimples.exe
+C:\AulaFiap\IfSimples\IfSimples\bin\Debug\net6.0-windows\IfSimples.deps.json
+C:\AulaFiap\IfSimples\IfSimples\bin\Debug\net6.0-windows\IfSimples.runtimeconfig.json
+C:\AulaFiap\IfSimples\IfSimples\bin\Debug\net6.0-windows\IfSimples.dll
+C:\AulaFiap\IfSimples\IfSimples\bin\Debug\net6.0-windows\ref\IfSimples.dll
+C:\AulaFiap\IfSimples\IfSimples\bin\Debug\net6.0-windows\IfSimples.pdb
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.csproj.AssemblyReference.cache
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.Form1.resources
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.csproj.GenerateResource.cache
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.AssemblyInfoInputs.cache
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.AssemblyInfo.cs
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.csproj.CoreCompileInputs.cache
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.dll
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\ref\IfSimples.dll
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.pdb
+C:\AulaFiap\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.genruntimeconfig.cache
